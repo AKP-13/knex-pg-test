@@ -14,9 +14,9 @@ clone the repo as ususal and from the folder run:
 ```bash
 npm install
 
-./scripts/create-ci-dotenv.sh
+./scripts/create_ci_dotenv.sh
 
-./scripts/pg-start.sh
+./scripts/pg_start.sh
 
 npm run db:migrate:up
 
