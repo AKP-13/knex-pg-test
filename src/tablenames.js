@@ -1,4 +1,5 @@
 module.exports = {
   CLIENTS: 'CLIENTS',
+  SUMMARY_DASH_WEEKLY_VIEW: 'SUMMARY_DASH_WEEKLY_VIEW',
   USER: 'USER',
 };
