@@ -10,6 +10,7 @@ Running unit tests locally and on Circle CI
 ## Setup
 
 clone the repo as ususal and from the folder run:
+Note: you have to run npm run db:migrate:up for each migration file.
 
 ```bash
 npm install
